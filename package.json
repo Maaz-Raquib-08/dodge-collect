@@ -10,6 +10,7 @@
       "dist/server/**/*.js"
     ]
   },
+  "homepage": "https://Maaz-Raquib-08.github.io/dodge-collect"
   "scripts": {
     "dev": "vite",
     "build": "npm run build:client && npm run build:server",
